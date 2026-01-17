@@ -1,8 +1,8 @@
- Hi there 👋, I'm Chirag
+👋 Hi, I’m Chirag,
 
-I am a passionate Data Analyst with 3+ years of experience transforming raw data into Meaningful insights.
-    
-Actively developing skills in Data Engineering with a focus on advanced data processing solutions.
+📊 A Data Analyst with 3+ years of professional experience, specializing in transforming raw and complex datasets into meaningful, actionable business insights.
 
-Languages and Tools:
-Python,Azure,git,linux,mysql,ADL,ADF,Pyspark,DataBricks
+🛠️ Technical Skills: Python, SQL, Alteryx, Excel, Azure Data Factory (ADF), Databricks, Azure Data Lake (ADL), and PySpark.
+
+🚀 Currently deepening my expertise in Data Engineering, with a strong focus on building scalable, efficient, and reliable data pipelines.
+
