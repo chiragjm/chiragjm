@@ -1,4 +1,4 @@
-👋 Hi, I’m Chirag,
+👋 Hi, I’m Chirag
 
 📊 A Data Analyst with 3+ years of professional experience, specializing in transforming raw and complex datasets into meaningful, actionable business insights.
 
